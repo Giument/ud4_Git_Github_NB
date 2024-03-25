@@ -11,6 +11,6 @@ package com.mycompany.ud4_git_github_nb;
 public class Ud4_Git_Github_NB {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("¡Hola Mundo!");
     }
 }
